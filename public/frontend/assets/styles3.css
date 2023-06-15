@@ -1,0 +1,87 @@
+
+@font-face {
+    font-family: zapfchan_mdit_btmedium_italic;
+    src: url('assets/webfontkit-20201017-230906/zafchami.woff2') format('woff2'),
+         url('assets/webfontkit-20201017-230906/zafchami.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+  font-family: Jim Nightshade;
+  src:url('assets/Jim_Nightshade/JimNightshade-Regular.ttf');
+}
+body { text-align: center;}
+
+p { 	
+	text-align: center; 
+	margin-bottom: 4pt;  
+	margin-top:0pt; 
+	font-family:AveriaSerifLibre-LightItalic;
+	font-size: 18;
+	font-style: italic;
+}
+
+#first { 
+  display: block;
+  font-size: 30;
+  font-family: Jim Nightshade, cursive;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  color: #359804   ;
+}
+
+h3 { 
+  display: block;
+  font-family: Jim Nightshade, cursive;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: normal;
+  
+    
+}
+#firsthd { 
+  display: block;
+  font-size: 24;
+  font-family: zapfchan_mdit_btmedium_italic;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: normal;
+  font-style: italic;
+  color: #359804   ;
+    
+}
+#secondhd { 
+  display: block;
+  font-size: 18;
+  font-family: 'Jim Nightshade', cursive;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: normal;
+  font-style: italic;
+  color: #359804   ;
+    
+}
+#second { 
+  display: block;
+  font-size: 22;
+ font-family: 'Jim Nightshade', cursive;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  font-style: italic;
+  color: #990000  ;
+}
+
+

@@ -1,0 +1,136 @@
+/*
+@font-face {
+    font-family: zapfchan_mdit_btmedium_italic;
+    src: url('assets/webfontkit-20201017-230906/zafchami.woff2') format('woff2'),
+         url('assets/webfontkit-20201017-230906/zafchami.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+*/
+@font-face {
+    font-family: AveriaSerifLibre-LightItalic;
+    src: url('assets/Averia_Serif_Libre/AveriaSerifLibre-LightItalic.ttf') format('ttf');
+         
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family:AveriaSerifLibre-Italic;
+    src: url('assets/AveriaSerifLibre-Italic/AveriaSerifLibre-Italic.ttf');
+   }
+
+body { text-align: center;}
+p { 	text-align: center; 
+		margin-bottom: 0pt;  
+		margin-top:0pt; 
+		font-family:AveriaSerifLibre-LightItalic;
+		font-size: 12pt;
+		font-style: italic;
+		border-radius: 4em;
+		}
+#first { 
+  display: block;
+  font-size: 20pt;
+  font-family: zapfchan_mdit_btmedium_italic;
+  margin-top: 0.50em;
+  margin-bottom: 0.50em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: normal;
+  color: #359804   ;
+}
+#second { 
+  display: block;
+  font-size: 14pt;
+  font-family: AveriaSerifLibre-LightItalic;
+  margin-top: 0.50em;
+  margin-bottom: 0.50em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  font-style: italic;
+  color: #990000  ;
+}
+h3 { 
+  display: block;
+  font-size: 10pt;
+  font-family: AveriaSerifLibre-Italic;
+  margin-top: 0.30em;
+  margin-bottom: 0.30em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: normal;
+  font-style: italic;
+    
+}
+#firsthd { 
+  display: block;
+  font-size: 14pt;
+  font-family: zapfchan_mdit_btmedium_italic;
+  margin-top: 0.45em;
+  margin-bottom: 0.45em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: normal;
+  font-style: italic;
+  color: #359804   ;
+    
+}
+#secondhd { 
+  display: block;
+  font-size: 14pt;
+  font-family: AveriaSerifLibre-Italic;
+  margin-top: 0.45em;
+  margin-bottom: 0.45em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: normal;
+  font-style: italic;
+  color: #359804   ;
+    
+}
+
+@font-face {
+    font-family: 'zapfchan_bd_btbold';
+    src: url('zafchab-webfont.woff2') format('woff2'),
+         url('zafchab-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family:'Monotype Corsiva';
+    src: url('Monotype Corsiva.eot');
+	src: url('Monotype Corsiva.eot?#iefix') format('embedded-opentype'),
+		url('Monotype Corsiva.woff2') format('woff2'),
+		url('Monotype Corsiva.woff') format('woff'),
+		url('Monotype Corsiva.svg#Monotype Corsiva') format('svg');
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+    unicode-range: U+0020-F003;
+}
+
+@font-face {
+    font-family: Monotype_Corsiva_F;
+    src: url('assets/MonotypeCorsiva_Regular.ttf') format('ttf');         
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+ @font-face {
+    font-family: 'cursivnormal';
+    src: url('cursiv-webfont.woff2') format('woff2'),
+         url('cursiv-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+		
+		
+		
+		
